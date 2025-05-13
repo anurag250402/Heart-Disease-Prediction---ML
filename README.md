@@ -127,4 +127,4 @@ This project is open-source and free to use.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Anurag Tripathi](https://github.com/anurag250402)
